@@ -2,15 +2,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Car Rental Service</b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - https://github.com/MeetMann/CarRentalService
 - <b>Message in a Bottle</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - https://github.com/MeetMann/MessageInABottle
 - <b>Line Detection/Following and Object Avoidance with the Thymio II Robot</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - https://github.com/MeetMann/Line-Detection-Following-and-Object-Avoidance
 - <b>Object Recognition with the Thymio II Robot</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - https://github.com/MeetMann/ObjectRecognition
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -18,8 +16,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/MannPrabhmeet
+[instagram]: https://www.instagram.com/meet__mann/
+[linkedin]: https://www.linkedin.com/in/meet-mann-8ab446240/
 
