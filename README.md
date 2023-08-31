@@ -4,7 +4,7 @@
 - [Car Rental Service](https://github.com/MeetMann/CarRentalService) 
 - [Message in a Bottle](https://github.com/MeetMann/MessageInABottle)
 - [Line Detection/Following and Object Avoidance with the Thymio II Robot](https://github.com/MeetMann/Line-Detection-Following-and-Object-Avoidance)
-- [Object Recognition with the Thymio II Robot](https://github.com/MeetMann/ObjectRecognition)
+- [Maze Navigation with the Thymio II Robot](https://github.com/MeetMann/ObjectRecognition)
 
 <h2> 🤳 Connect with me:</h2>
 
